@@ -1,4 +1,7 @@
-
+<div align="center">
+	<img src="https://github.com/Clas0512/Clas0512/gifmylife.webp">
+	<img src="https://github.com/Clas0512/Clas0512/gifmylife.webp" alt="I hope we don't code the humanity in the future..">
+</div>
 
 <h2 id="hi-there-my-name-is-adem-berke-narg-l-i-am-a-software-engineer-and-developer-not-only-that-i-am-the-developer-of-music-sports-love-3-nature-humanity-in-short-i-am-the-developer-of-my-life-my-country-and-my-world-">Hi there 👋, My name is Adem Berke Nargül. I am a Software Engineer and Developer 🧑‍💻. I'm currently learnin Machine Learning and Python. Also Not only that, I am the developer of music 🎸, sports 🏋️‍♂️, love &lt;3, nature 🌳, humanity 🗿🗿🗿.. In short, I am the developer of my ✨life✨, my 🇹🇷country🇹🇷 and my 🌍world🌏.</h2>
 
