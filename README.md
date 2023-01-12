@@ -1,6 +1,12 @@
-### Hi there 👋, My name is Adem Berke Nargül. I am a Software Engineer and Developer 🧑‍💻. Not only that, I am the developer of music 🎸, sports 🏋️‍♂️, love <3, nature 🌳, humanity 🗿🗿🗿.. In short, I am the developer of my ✨life✨, my 🇹🇷country🇹🇷 and my 🌍world🌏.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=b84789&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&redirect=true)
+
+<h2 id="hi-there-my-name-is-adem-berke-narg-l-i-am-a-software-engineer-and-developer-not-only-that-i-am-the-developer-of-music-sports-love-3-nature-humanity-in-short-i-am-the-developer-of-my-life-my-country-and-my-world-">Hi there 👋, My name is Adem Berke Nargül. I am a Software Engineer and Developer 🧑‍💻. I'm currently learnin Machine Learning and Python. Also Not only that, I am the developer of music 🎸, sports 🏋️‍♂️, love &lt;3, nature 🌳, humanity 🗿🗿🗿.. In short, I am the developer of my ✨life✨, my 🇹🇷country🇹🇷 and my 🌍world🌏.</h2>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Clas0512&amp;style=plastic&amp;color=blueviolet" alt=""></p>
+<p align="center">Atam İzindeyiz..</p>
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/anargul?1337Badge=off&UM6P=off" alt="anargul's 42 stats" /></a></p>
+
+<p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212" alt="spotify-github-profile"></a></p>
 
 <!--
 **Clas0512/Clas0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
