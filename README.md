@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Adem Berke Nargül. I am a Software Engineer and Developer 🧑‍💻. Not only that, I am the developer of music 🎸, sports 🏋️‍♂️, love <3, nature 🌳, humanity 🗿🗿🗿.. In short, I am the developer of my ✨life✨, my 🇹🇷country🇹🇷 and my 🌍world🌏.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=b84789&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sx1ygjfidpkfcjntazewo9wdd&redirect=true)
 
 <!--
 **Clas0512/Clas0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
